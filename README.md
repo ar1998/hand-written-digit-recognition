@@ -1,6 +1,8 @@
 <h1>
-Hand-written-digit-recognition
-a neural network model build with tensorflow
+
+Hand-written-digit-recognition: 
+A neural network model build with tensorflow
+
 </h1>
 <b>
 <h2>Different tensorflow APIs used:</h2>
