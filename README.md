@@ -10,4 +10,4 @@ a neural network model build with tensorflow
   <li>CCN using Layer API</li>
   <li>CNN using Keras API</li>
 </ul>
-<h4>accuracy : 98% to 99.8% </h4>
+<h4>Accuracy : 98% to 99.8% </h4>
